@@ -44,11 +44,11 @@ MetaMask, cüzdanınızı yedeklemek ve geri yüklemek için kullanılacak 12 ke
 2. Bu kelimeleri bir kağıda yazın veya güvenli bir şifre yöneticisine kaydedin.
 3. Kurtarma cümlesini doğru bir şekilde yazdığınızı doğrulamak için kelimeleri doğru sırayla tekrar girmeniz istenecektir.
 
-<img src="./assets/metamask-1.png" width="400" alt="12 Kelimelik Kurtarma Cümlesi">
+<img src="./assets/metamask-1.PNG" width="400" alt="12 Kelimelik Kurtarma Cümlesi">
 
 - Bu aşamadan sonra bizi aşağıdaki gibi bir ekran karşılayacak.
 
-<img src="./assets/metamask-2.png" width="400" alt="Arayüz">
+<img src="./assets/metamask-2.PNG" width="400" alt="Arayüz">
 
 - Sepolia Ağına Geçiş
 
@@ -57,7 +57,7 @@ MetaMask varsayılan olarak Ethereum ana ağına bağlanır, ancak test işlemle
 1. MetaMask arayüzünün sağ üst köşesindeki "Network" (Ağ) menüsüne tıklayın.
 2. Aşağıya doğru açılan listeden "Sepolia Test Network" (Sepolia Test Ağı) seçeneğini seçin. Eğer bu seçenek yoksa "Show/hide networks" (Ağları Göster/Gizle) kısmından aktif hale getirebilirsiniz.
 
-<img src="./assets/metamask-4.png" width="400" alt="Sepolia Ağına Geçiş">
+<img src="./assets/metamask-4.PNG" width="400" alt="Sepolia Ağına Geçiş">
 
 - Yeni Bir Hesap Oluşturma
 
@@ -67,7 +67,7 @@ MetaMask üzerinde birden fazla hesap oluşturabilirsiniz. Yeni bir hesap oluşt
 2. "Create Account" (Hesap Oluştur) seçeneğine tıklayın.
 3. Yeni hesabınıza bir isim verin ve "Create" (Oluştur) düğmesine tıklayın.
 
-<img src="./assets/metamask-5.png" width="400" alt="Yeni Hesap Oluşturma">
+<img src="./assets/metamask-5.PNG" width="400" alt="Yeni Hesap Oluşturma">
 
 ## **Sepolia Test Ağı Üzerinde Ether Alımı:** 
 Sepolia test ağı üzerinde işlem yapabilmek için test Ether'e ihtiyacınız olacak. Sepolia test ağına Ether almak için Chainlink Sepolia Faucet kullanabilirsiniz. 
@@ -136,6 +136,7 @@ contract Todo {
 ![Remix ide deploy](./assets/remix-ide-3.PNG)
 
 - Deploy işlemi tamamlandıktan sonra aşağıda yazdığımız sözleşmenin fonksiyonlarını deneyebiliriz. Ayrıca sözleşmenin yanında yazan "TODO AT 0X..." ile başlayan adres React uygulamamızda kullanacağımız sözleşme adresimizdir daha sonra ihtiyacımız olacak.
+
 ![Remix ide test](./assets/remix-ide-4.PNG)
 
 
